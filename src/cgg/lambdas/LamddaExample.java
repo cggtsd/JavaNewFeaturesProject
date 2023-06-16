@@ -46,9 +46,7 @@ public class LamddaExample {
 		for (Employee emp : empList) {
 			System.out.println(emp);
 		}
-		
-		
-		
+	
 	}
 
 	private static void lambdawithInterfaceAsArgument() {
